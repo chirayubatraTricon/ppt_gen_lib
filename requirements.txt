@@ -1,0 +1,6 @@
+streamlit
+langgraph
+python-pptx
+PyPDF2
+python-dotenv
+google-generativeai
